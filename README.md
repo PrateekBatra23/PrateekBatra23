@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hi there 👋, I’m Prateek<br>🎓 Pre-Final Year BTech CSE @ VIT Vellore<br><br>💻 Skilled in Python, Java, C, C++, Machine Learning,Computer Vision<br><br>📚 Enjoy reading, books, and staying active
+# Hi there 👋, I’m Prateek
+<br>🎓 Pre-Final Year BTech CSE @ VIT Vellore<br><br>💻 Skilled in Python, Java, C, C++, Machine Learning,Computer Vision<br><br>📚 Enjoy reading and staying active
 
 
 # 💻 Tech Stack:
@@ -12,7 +12,8 @@ Hi there 👋, I’m Prateek<br>🎓 Pre-Final Year BTech CSE @ VIT Vellore<br><
 ---
 [![](https://visitcount.itsvg.in/api?id=prateekbatra23&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prateekbatradel) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prateekbatra.work@gmail.com) 
+## 📫 Connect with Me
+- **LinkedIn:** [Prateek Batra](https://www.linkedin.com/in/prateekbatradel/)
+- **Email:** prateekbatra.work@gmail.com
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
