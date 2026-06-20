@@ -1,5 +1,5 @@
 # Hi there 👋, I’m Prateek
-<br>🎓 Pre-Final Year BTech CSE @ VIT Vellore<br><br>💻 Skilled in Python, Java, C, C++, Machine Learning,Computer Vision<br><br>📚 Enjoy reading and staying active
+<br>🎓 Final Year BTech CSE @ VIT Vellore<br><br>💻 Skilled in Python, Java, C, C++, Machine Learning,Computer Vision<br><br>📚 Enjoy reading and staying active
 
 
 # 💻 Tech Stack:
