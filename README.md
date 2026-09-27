@@ -12,11 +12,8 @@
 ### 🧩 About Me
 
 🎓 Final Year BTech CSE @ VIT Vellore, graduating 2027
-
 💼 Ex-Intern @ Hitachi Digital Services
-
 💻 Skilled in Python, Java, C, C++
-
 📚 Enjoy reading and staying active
 ```
 ```
@@ -25,9 +22,9 @@ if (problem.isInteresting() && solution.doesntExistYet()) {
 }
 ```
 
-### 🚀 Projects
+### 🛠️ Featured Projects
 ---
-#### Avonzi — Full-Stack Job Aggregation & AI Digest Platform
+#### [Avonzi](https://avonzi.com) — Full-Stack Job Aggregation & AI Digest Platform
 
 `1000+ visitors` &nbsp;·&nbsp; `100+ companies` &nbsp;·&nbsp; `6,000+ active postings` &nbsp;·&nbsp; `8 ATS platforms reverse-engineered` &nbsp;·&nbsp; `280+ automated tests`
 
