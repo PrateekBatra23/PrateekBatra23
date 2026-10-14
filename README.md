@@ -30,13 +30,6 @@ if (problem.isInteresting() && solution.doesntExistYet()) {
 
 Built and deployed solo: aggregates live job listings from companies' own ATS platforms via a custom discovery tool, with an AI chatbot (multi-provider LLM failover) and a 3-scheme backend auth system.
 
-#### Okapi *(Orchestrated Knowledge Access and Policy Integrity Framework)* — Currently Building
-
-Okapi is a backend governance platform for storing and editing sensitive records (patient charts, clinical trial data, pharma batch records) in regulated industries. As AI agents take on more of this work, most systems still trust them the same way they trust a human — Okapi doesn't.
-
-- Every access is checked against a policy engine (Open Policy Agent) before it happens — no back doors, no overrides.
-- Edits never overwrite data; they create new, hash-linked versions, keeping a tamper-evident history.
-- **AI agents are held to a stricter standard than humans**: they can only touch data a person has explicitly delegated to them.
 
 <!-- Add more projects below -->
 
